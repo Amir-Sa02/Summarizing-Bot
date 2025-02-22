@@ -56,19 +56,3 @@ display_summary("https://example.com")
 - Cleaned webpage text
 - AI-generated summary of the webpage
 
-## Troubleshooting
-If you encounter API key errors:
-- Ensure your `.env` file is correctly set up.
-- The API key must begin with `sk-proj-`.
-- No leading or trailing spaces in the API key.
-
-## License
-This project is open-source and available under the **MIT License**.
-
-## Contributions
-Contributions are welcome! Feel free to submit issues and pull requests.
-
-## Author
-**Your Name**  
-GitHub: [your-username](https://github.com/your-username)
-
